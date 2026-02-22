@@ -36,7 +36,7 @@ Descripción: Este proyecto de gestion de escolar consiste en un programa que pu
 <img width="1365" height="767" alt="Captura de pantalla 2026-02-22 125311" src="https://github.com/user-attachments/assets/390a4466-fe9d-4969-b9df-e38857a63a89" />
 <img width="1366" height="768" alt="Captura de pantalla 2026-02-22 125343" src="https://github.com/user-attachments/assets/9e02a8f7-eb92-47a8-9d75-5cda3325dd6d" />
 
-## Uso o Ejecución.
+## Uso o Ejecución
 
 - Abrir el proyecto en Visual Studio
 - Ejecutar el proyecto (F5)
@@ -52,5 +52,5 @@ Descripción: Este proyecto de gestion de escolar consiste en un programa que pu
 - Módulo Formativo: Desarrollo de Aplicaciones y Sistemas de informacion
 - Curso / Sección: 5to D1
 - Año Escolar: 2025–2026
-### Autor.
+### Autor
 Nombre del estudiante: Jostin Sierra Madrigal
