@@ -1,12 +1,7 @@
-## Gestion_Escolar en C#
+# Gestion_Escolar en C#
 
-Descripción: Este proyecto consiste en una aplicación de escritorio que permite ingresar cuatro notas, calcular el promedio final y determinar si el estudiante:
-- Aprueba
-- Pasa en completivo
-- Pasa en extraordinario
-- Reprueba.
+Descripción: Este proyecto de gestion de escolar consiste en un programa que pueda insertar, eliminar y actualizar registros de estudiantes, profesores y asignar materias al estudiante seleccionado y se guarden correctamente en la base de datos y tambien podras visualizar dierentes reportes como un listado de estudiantes activos y otro para ver todas las materias que esta cursando el estudiante que selecciones.
   
-Se utiliza las reglas dadas de evaluación académica, mostrando mensajes al usuario según el resultado obtenido.
 ### Tecnologías Utilizadas
 **Lenguaje:**
 - C#
@@ -19,13 +14,11 @@ Se utiliza las reglas dadas de evaluación académica, mostrando mensajes al usu
 - Visual Studio 2022
 
 **Funcionamiento del Sistema:**
-- Calcula el promedio de las 4 notas.
-- Si el promedio es mayor a 69 = Aprobado.
-- Si el promedio es menor a 69 = pasa a Completivo.
--El promedio final del completivo se calcula con un 50% del promedio + 50% de la nota adicional.
--	Si el promedio es menor a 69 = pasa a Extraordinario.
--	El promedio final del extraordinario se calcula con un 30% del promedio + 70% de la nota adicional.
--	Muestra mensajes indicando si el estudiante aprueba o reprueba.
+- Muestra los estudiantes que hay en el sistema como tambien podras insertarlos, eliminarlos y actualizar sus datos.
+- Muestra los profesores que hay en el sistema como tambien podras insertarlos, eliminarlos y actualizar sus datos.
+- La visualizacion de un reporte con los estudiantes activos.
+- Apartado donde podras agregarle diferentes materia al estudiantes seleccionado con sus respectivos maestros.
+-	Y por ultimo podras visualizar un reporte con las materias que tiene agregadas el estudiante a cual se selecciono.
 
 <img width="519" height="384" alt="Captura de pantalla 2026-01-31 201624" src="https://github.com/user-attachments/assets/4c3c76fc-8b13-4fb4-8ee7-ff7b8257fa7b" />
 <img width="521" height="384" alt="Captura de pantalla 2026-01-31 201655" src="https://github.com/user-attachments/assets/84ed5ee2-a1f2-432f-84a8-00210b2a9cc2" />
