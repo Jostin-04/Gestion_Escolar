@@ -10,6 +10,9 @@ Descripción: Este proyecto de gestion de escolar consiste en un programa que pu
 - .NET
 - Windows Forms
 
+**Base de Datos:**
+- Sql Server
+
 **Entorno de Desarrollo (IDE):**
 - Visual Studio 2022
 
@@ -20,21 +23,30 @@ Descripción: Este proyecto de gestion de escolar consiste en un programa que pu
 - Apartado donde podras agregarle diferentes materia al estudiantes seleccionado con sus respectivos maestros.
 -	Y por ultimo podras visualizar un reporte con las materias que tiene agregadas el estudiante a cual se selecciono.
 
-<img width="519" height="384" alt="Captura de pantalla 2026-01-31 201624" src="https://github.com/user-attachments/assets/4c3c76fc-8b13-4fb4-8ee7-ff7b8257fa7b" />
-<img width="521" height="384" alt="Captura de pantalla 2026-01-31 201655" src="https://github.com/user-attachments/assets/84ed5ee2-a1f2-432f-84a8-00210b2a9cc2" />
-<img width="515" height="384" alt="Captura de pantalla 2026-01-31 201810" src="https://github.com/user-attachments/assets/8f3a887c-d3fc-4e55-b9fa-e15492d3f94d" />
-<img width="514" height="379" alt="Captura de pantalla 2026-01-31 201832" src="https://github.com/user-attachments/assets/9e7d6b1e-46e4-464e-ab10-375f3ff91b50" />
-<img width="512" height="380" alt="Captura de pantalla 2026-01-31 201852" src="https://github.com/user-attachments/assets/d68de518-6286-4c03-87d7-ca6063eb3f1e" />
+**Ejecucion del Proyecto:**
+
+<img width="1366" height="768" alt="Captura de pantalla 2026-02-22 124723" src="https://github.com/user-attachments/assets/490c8b0c-2431-4d77-b464-355b3ba5d1e4" />
+<img width="1366" height="768" alt="Captura de pantalla 2026-02-22 124753" src="https://github.com/user-attachments/assets/136933b7-0eea-443a-83ff-a8864859b29f" />
+<img width="1366" height="768" alt="Captura de pantalla 2026-02-22 124934" src="https://github.com/user-attachments/assets/ce2711c3-24b3-404d-bfee-167a88b4145b" />
+<img width="1366" height="768" alt="Captura de pantalla 2026-02-22 124948" src="https://github.com/user-attachments/assets/80deafd9-5df9-485c-9f65-01ce4104af7f" />
+<img width="1366" height="768" alt="Captura de pantalla 2026-02-22 125002" src="https://github.com/user-attachments/assets/258f6aa1-b9cc-4588-ad7e-19eca6b756fe" />
+<img width="1366" height="768" alt="Captura de pantalla 2026-02-22 125021" src="https://github.com/user-attachments/assets/dfee2dfc-be1f-41e0-b271-6a7cb14ee8b6" />
+<img width="1366" height="768" alt="Captura de pantalla 2026-02-22 125029" src="https://github.com/user-attachments/assets/373daa4e-abc9-4271-81a4-9736d2fa4d56" />
+<img width="1366" height="768" alt="Captura de pantalla 2026-02-22 125048" src="https://github.com/user-attachments/assets/0a97dc6a-92ac-408d-a516-e2f5cac14672" />
+<img width="1365" height="767" alt="Captura de pantalla 2026-02-22 125311" src="https://github.com/user-attachments/assets/390a4466-fe9d-4969-b9df-e38857a63a89" />
+<img width="1366" height="768" alt="Captura de pantalla 2026-02-22 125343" src="https://github.com/user-attachments/assets/9e02a8f7-eb92-47a8-9d75-5cda3325dd6d" />
 
 ## Uso o Ejecución.
 
-- Abrir el proyecto en Visual Studio.
-- Ejecutar el proyecto (F5).
-- Ingresar las cuatro notas.
-- Presionar el botón Calcular.
-- El sistema mostrará el promedio y el estado del estudiante.
-- Si aplica, ingresar la nota de completivo o extraordinario.
-- 
+- Abrir el proyecto en Visual Studio
+- Ejecutar el proyecto (F5)
+- Podras visualizar el inicio
+- Y a la izquierda tendras un panel de navegacion donde podras entra a las siguientes paginas:
+  - Estudiantes para poder hacer todas las funciones dichas anteriormente
+  - Porfesores para poder hacer todas las funciones dichas anteriormente
+  - Reporte para poder ver el reporte de todos los estudiantes activos
+  - Y Clases paa poder asignar varias materias a un estudiante
+
 ## Contexto Académico
 - Nivel: Secundaria Técnico Profesional
 - Módulo Formativo: Desarrollo de Aplicaciones y Sistemas de informacion
