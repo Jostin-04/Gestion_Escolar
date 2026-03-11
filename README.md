@@ -53,4 +53,4 @@ Descripción: Este proyecto de gestion de escolar consiste en un programa que pu
 - Curso / Sección: 5to D1
 - Año Escolar: 2025–2026
 ### Autor
-Nombre del estudiante: Jostin Sierra Madrigal
+Nombre del estudiante: Alexandra Sierra
